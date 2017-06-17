@@ -52,19 +52,22 @@ h3 {
 }
 
 .MainMenu-items--logo {
+	margin-top: 20px;
+	opacity: 1;
 }
 
 
 
 .Intro {
 	background-color: #380C78;
-	height: 500px;
+	background-image: url('lila_pattern.png');
+	max-height: 650px;
 }
 
 .Intro-section {
-	position: center;
+	position: absolute;
 	text-align: center;
-	max-width: 800px;
+	max-width: 700px;
 }
 
 .Intro-ticketCta {
@@ -86,12 +89,12 @@ h3 {
 }
 
 .CurrentEvents-Barcelona {
-	background-image: url('https://c1.staticflickr.com/9/8300/7979112399_786e67bf3c_b.jpg');
+	background-image: url('aktuell-barcelona2.png');
 
 }
 
 .CurrentEvents-Berlin {
-	background-image: 
+	background-image: url('aktuell-berlin.png');
 
 }
 
