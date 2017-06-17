@@ -5,12 +5,14 @@ body {
 
 h1 {
 	font-size: 60px;
-	color: #32037A;
+	color: white;
+	font-style: bold;
 }
 
 h2 {
 	font-size: 28px;
-	color: #32037A;
+	color: white;
+	text-transform: uppercase;
 }
 
 h3 {
@@ -29,11 +31,14 @@ h3 {
 
 .MainMenu {
 	text-align: center;
+	padding-top: 10px;
+	background-color: #380C78;
 
 }
 
 .MainMenu a {
 	margin: 20px 10px 10px 0;
+	text-transform: uppercase;
 
 }
 
@@ -41,7 +46,7 @@ h3 {
 
 .Intro {
 	background-color: #380C78;
-	height: 700px;
+	height: 500px;
 }
 
 .Intro-section {
@@ -50,10 +55,13 @@ h3 {
 }
 
 .Intro-ticketCta {
-	height: 60px;
-	width: 100px;
+	height: 70px;
+	width: 130px;
 	background-color: #5EFCDB;
+	border: #5EFCDB;
+	color: #380C78;
 	text-transform: uppercase;
+	border-radius: 50px;
 
 }
 
