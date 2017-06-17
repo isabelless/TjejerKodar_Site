@@ -47,19 +47,19 @@ h3 {
 	text-decoration: none;
 	letter-spacing: 2px;
 	color: white;
-	opacity: 0.5;
 
 }
 
-.MainMenu-items--logo {
+.MainMenu-items-logo {
 	margin-top: 20px;
-	opacity: 1;
 }
 
+.MainMenu-items-links {
+	opacity: 0.5;
+}
 
 
 .Intro {
-	background-color: #380C78;
 	background-image: url('lila_pattern.png');
 }
 
