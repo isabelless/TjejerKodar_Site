@@ -5,17 +5,18 @@ body {
 
 h1 {
 	font-size: 70px;
-	color: white;
+	color: #fff;
 	font-weight: bold;
+	line-height: 1.2;
 }
 
 h2 {
 	font-size: 28px;
-	color: white;
+	color: #fff;
 	text-transform: uppercase;
 	margin-top: 40px;
 	font-weight: lighter;
-	text-decoration: italic, ; 
+	font-style: italic; 
 }
 
 h3 {
@@ -46,6 +47,10 @@ h3 {
 	letter-spacing: 2px;
 	color: white;
 
+}
+
+.MainMenu-items--logo {
+	background-image: url('/tk_logo.png');
 }
 
 
