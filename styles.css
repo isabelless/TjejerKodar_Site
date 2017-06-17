@@ -36,7 +36,6 @@ h3 {
 .MainMenu {
 	text-align: center;
 	padding-top: 10px;
-	background-color: #380C78;
 
 }
 
@@ -45,7 +44,7 @@ h3 {
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 2px;
-
+	color: white;
 
 }
 
