@@ -105,11 +105,10 @@ h3 {
 
 .CurrentEvents-date {
 	background-color: #fff;
+	display: block;
 	color: #380C78;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	margin-right: 10px;
-	margin-left: 10px;
+	padding: 12px 10px;
+	margin: 0 auto;
 	text-decoration: none;
 }
 
