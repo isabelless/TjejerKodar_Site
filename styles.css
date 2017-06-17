@@ -65,7 +65,7 @@ h3 {
 }
 
 .Intro-section {
-	position: center;
+	justify-content: center;
 	text-align: center;
 	max-width: 900px;
 }
@@ -78,13 +78,13 @@ h3 {
 	color: #380C78;
 	text-transform: uppercase;
 	border-radius: 50px;
+	margin-bottom: 30px;
 
 }
 
 
-
-
 .CurrentEvents {
+	display: block;
 
 }
 
@@ -92,6 +92,7 @@ h3 {
 	background-image: url('aktuell-barcelona2.png');
 	height: 530px;
 	width: 340px;
+	display: flex;
 
 }
 
@@ -99,6 +100,7 @@ h3 {
 	background-image: url('aktuell-berlin.png');
 	height: 530px;
 	width: 340px;
+	display: flex;
 
 }
 
