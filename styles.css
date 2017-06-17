@@ -46,11 +46,11 @@ h3 {
 	text-decoration: none;
 	letter-spacing: 2px;
 	color: white;
+	opacity: 0.5;
 
 }
 
 .MainMenu-items--logo {
-	background-image: url('/tk_logo.png');
 }
 
 
