@@ -24,6 +24,7 @@ h3 {
 	margin: 30px;
 	color: #32037A;
 	margin-top: 10px;
+	text-decoration: none;
 }
 
 
@@ -95,8 +96,8 @@ h3 {
 
 .CurrentEvents-Barcelona {
 	background-image: url('aktuell-barcelona2.png');
-	height: 230px;
-	width: 340px;
+	height: 340px;
+	width: 530px;
 	display: flex;
 	padding: 20px;
 	align-items: center;
@@ -105,8 +106,8 @@ h3 {
 
 .CurrentEvents-Berlin {
 	background-image: url('aktuell-berlin.png');
-	height: 230px;
-	width: 340px;
+	height: 340px;
+	width: 530px;
 	display: flex;
 	padding: 20px;
 	align-items: center;
