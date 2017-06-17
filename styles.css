@@ -44,9 +44,17 @@ h3 {
 	height: 700px;
 }
 
+.Intro-section {
+	position: center;
+	text-align: center;
+}
+
 .Intro-ticketCta {
+	height: 60px;
+	width: 100px;
 	background-color: #5EFCDB;
 	text-transform: uppercase;
+
 }
 
 
