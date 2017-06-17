@@ -84,6 +84,7 @@ h3 {
 
 .CurrentEvents-wrapper {
 	display: inline-block;
+	-webkit-flex-flow: row wrap;
 
 }
 
