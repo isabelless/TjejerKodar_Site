@@ -82,8 +82,8 @@ h3 {
 }
 
 
-.CurrentEvents {
-	display: block;
+.CurrentEvents-wrapper {
+	display: inline-block;
 
 }
 
