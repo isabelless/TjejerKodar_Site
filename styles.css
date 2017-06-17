@@ -21,6 +21,7 @@ h2 {
 
 h3 {
 	font-size: 20px;
+	margin: 30px;
 	color: #32037A;
 	margin-top: 10px;
 }
@@ -84,10 +85,12 @@ h3 {
 }
 
 .CurrentEvents-Barcelona {
+	background-image: url('https://c1.staticflickr.com/9/8300/7979112399_786e67bf3c_b.jpg');
 
 }
 
 .CurrentEvents-Berlin {
+	background-image: 
 
 }
 
