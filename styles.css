@@ -90,15 +90,23 @@ h3 {
 
 .CurrentEvents-Barcelona {
 	background-image: url('aktuell-barcelona2.png');
+	height: 530px;
+	width: 340px;
 
 }
 
 .CurrentEvents-Berlin {
 	background-image: url('aktuell-berlin.png');
+	height: 530px;
+	width: 340px;
 
 }
 
 .CurrentEvents-date {
+	background-color: #fff;
+	color: #380C78;
+	height: 70px;
+	padding: 10px;
 
 }
 
