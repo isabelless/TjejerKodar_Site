@@ -84,7 +84,7 @@ h3 {
 
 .CurrentEvents-wrapper {
 	display: inline-block;
-	-webkit-flex-flow: row wrap;
+	-webkit-flex-flow: row wrap;	
 
 }
 
@@ -108,7 +108,7 @@ h3 {
 
 }
 
-.CurrentEvents-date {
+.CurrentEvents-date h2 {
 	background-color: #fff;
 	display: block;
 	color: #380C78;
