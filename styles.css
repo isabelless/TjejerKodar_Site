@@ -3,19 +3,28 @@ body {
 	color: #333;
 }
 
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
 
 .Site-wrapper {
 	max-width: 1400px;
-	
+
 }
 
 
 
 .MainMenu {
-	
+	text-align: center;
 
 }
 
+
+.MainMenu a {
+	margin: 20px 0 10px 0;
+
+}
 
 
 .Header {
